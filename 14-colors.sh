@@ -9,3 +9,5 @@ N="\e[0m"
 echo -e "$G Hello world"
 echo -e "$B hey sri$N"
 echo "Check this color"
+
+
