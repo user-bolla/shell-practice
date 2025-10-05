@@ -7,5 +7,5 @@ B="\e[34m"
 N="\e[0m"
 
 echo -e "$G Hello world"
-echo -e "$B hey sri"
-echo Check this color"
+echo -e "$B hey sri$N"
+echo "Check this color"
